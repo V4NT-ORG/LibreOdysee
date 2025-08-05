@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/WhateverItWorks/LibreOdysee/utils"
+	"github.com/V4NT-ORG/LibreOdysee/utils"
 	"github.com/tidwall/gjson"
 )
 
