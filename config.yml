@@ -19,12 +19,12 @@ SPONSORBLOCK_URL: 'https://sponsor.ajay.app'
 # Advanced: Custom video streaming endpoint
 VIDEO_STREAMING_URL: ''
 FRONTEND:
-  youtube: 'https://yt.whateveritworks.org'
-  twitter: 'https://tweet.whateveritworks.org'
-  imgur: 'https://rimgo.whateveritworks.org'
+  youtube: 'https://yt.example.com'
+  twitter: 'https://x.example.com'
+  imgur: 'https://rimgo.example.com'
   instagram: 'https://www.picnob.com'
-  tiktok: 'https://cringe.whateveritworks.org'
-  reddit: 'https://discuss.whateveritworks.org'
+  tiktok: 'https://cringe.example.com'
+  reddit: 'https://discuss.example.com'
 DEFAULT_SETTINGS:
   theme: 'dark'
   relatedVideos: true
@@ -50,4 +50,4 @@ INSTANCE_PRIVACY:
   INSTANCE_PROVIDER: "Hetzner"
   INSTANCE_CLOUDFLARE: true
   MESSAGE: "While visiting this site The logging done on this site is minimal to keep the experience private. For example, our NGINX (A service that we use on our server) logs are kept disabled. However we also rely on Cloudflare.com to provide us with DDoS protection, CDN delivery and certain other web services. We didn't add return vistor ips to our nginx conf file so we can't see your correct ip in our dashboard only the cloudflare proxy ips."
-  PRIVACY_POLICY: "https://www.whateveritworks.org/privacy"
+  PRIVACY_POLICY: "https://www.example.com/privacy"
