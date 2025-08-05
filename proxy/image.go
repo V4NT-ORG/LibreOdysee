@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/WhateverItWorks/LibreOdysee/utils"
+	"github.com/V4NT-ORG/LibreOdysee/utils"
 	"github.com/gofiber/fiber/v2"
 	"github.com/spf13/viper"
 )
