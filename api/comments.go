@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/WhateverItWorks/LibreOdysee/utils"
+	"github.com/V4NT-ORG/LibreOdysee/utils"
 	"github.com/dustin/go-humanize"
 	"github.com/gofiber/fiber/v2"
 	"github.com/patrickmn/go-cache"
