@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/WhateverItWorks/LibreOdysee/utils"
+	"github.com/V4NT-ORG/LibreOdysee/utils"
 	"github.com/dustin/go-humanize"
 )
 
