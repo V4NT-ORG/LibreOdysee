@@ -4,8 +4,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/WhateverItWorks/LibreOdysee/api"
-	"github.com/WhateverItWorks/LibreOdysee/utils"
+	"github.com/V4NT-ORG/LibreOdysee/api"
+	"github.com/V4NT-ORG/LibreOdysee/utils"
 	"github.com/gofiber/fiber/v2"
 	"github.com/spf13/viper"
 )
