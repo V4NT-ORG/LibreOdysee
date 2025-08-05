@@ -1,6 +1,6 @@
-module codeberg.org/librarian/librarian
+module github.com/V4NT-ORG/LibreOdysee
 
-go 1.16
+go 1.24.0
 
 require (
 	codeberg.org/librarian/feeds v1.1.1
