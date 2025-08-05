@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/WhateverItWorks/LibreOdysee/data"
+	"github.com/V4NT-ORG/LibreOdysee/data"
 	"github.com/PuerkitoBio/goquery"
 	"github.com/microcosm-cc/bluemonday"
 	"github.com/spf13/viper"
