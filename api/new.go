@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/WhateverItWorks/LibreOdysee/utils"
+	"github.com/V4NT-ORG/LibreOdysee/utils"
 	"github.com/tidwall/gjson"
 )
 
